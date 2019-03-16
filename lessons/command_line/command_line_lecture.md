@@ -195,6 +195,7 @@ ls -lh
 ```
 
 > What changed?
+>> The file sizes were printed in a more human-readable format
 
 If instead copying we just want to change the name of a file, we can do:
 
